@@ -1,0 +1,1431 @@
+org.chromium.support_lib_boundary.ProfileBoundaryInterface
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface$PrefetchExceptionTypeBoundaryInterface
+androidx.appcompat.widget.SearchView
+androidx.core.graphics.drawable.IconCompat
+io.flutter.embedding.engine.FlutterJNI
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Baseline
+org.chromium.support_lib_boundary.WebViewStartUpCallbackBoundaryInterface
+com.crazecoder.openfile.FileProvider
+io.flutter.plugins.urllauncher.WebViewActivity
+org.chromium.support_lib_boundary.WebMessageListenerBoundaryInterface
+com.filebrowser.file_browser.DataSyncService
+androidx.preference.SeekBarPreference
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface
+dev.fluttercommunity.plus.share.ShareFileProvider
+androidx.window.extensions.core.util.function.Consumer
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$ConfigField
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+com.github.dart_lang.jni.JniUtils
+org.chromium.support_lib_boundary.JsReplyProxyBoundaryInterface
+androidx.lifecycle.ReportFragment
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface
+com.github.dart_lang.jni.PortProxyBuilder
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface
+androidx.preference.internal.PreferenceImageView
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+io.flutter.view.TextureRegistry$ImageConsumer
+com.github.dart_lang.jni.JniPlugin
+androidx.preference.MultiSelectListPreference
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface
+org.chromium.support_lib_boundary.WebViewCookieManagerBoundaryInterface
+androidx.window.extensions.core.util.function.Predicate
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$AttributionBehavior
+io.flutter.view.AccessibilityViewEmbedder
+androidx.appcompat.widget.SearchView$SearchAutoComplete
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface
+org.chromium.support_lib_boundary.SpeculativeLoadingConfigBoundaryInterface
+com.github.dart_lang.jni.PortCleaner
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants
+androidx.core.app.RemoteActionCompat
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants$ProcessGlobalConfigMapKey
+io.flutter.view.TextureRegistry$SurfaceProducer
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface
+androidx.profileinstaller.ProfileInstallReceiver
+io.flutter.view.TextureRegistry$SurfaceTextureEntry
+org.chromium.support_lib_boundary.SpeculativeLoadingParametersBoundaryInterface
+io.flutter.plugin.text.ProcessTextPlugin
+androidx.preference.PreferenceCategory
+androidx.recyclerview.widget.LinearLayoutManager
+com.github.dart_lang.jni_flutter.R
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface
+com.github.dart_lang.jni.PortContinuation
+androidx.versionedparcelable.CustomVersionedParcelable
+com.filebrowser.file_browser.MainActivity
+androidx.preference.PreferenceGroup
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config
+com.crazecoder.openfile.OpenFilePlugin
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.lifecycle.ProcessLifecycleInitializer
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface
+com.github.dart_lang.jni.PortProxyBuilder$DartException
+androidx.startup.InitializationProvider
+androidx.versionedparcelable.ParcelImpl
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior
+org.chromium.support_lib_boundary.StaticsBoundaryInterface
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+org.chromium.support_lib_boundary.IsomorphicObjectBoundaryInterface
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$SpeculativeLoadingStatus
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebauthnSupport
+androidx.preference.SwitchPreferenceCompat
+io.flutter.plugins.urllauncher.UrlLauncherPlugin
+androidx.core.app.CoreComponentFactory
+io.flutter.plugins.webviewflutter.WebViewFlutterPlugin
+io.flutter.view.FlutterCallbackInformation
+androidx.recyclerview.widget.GridLayoutManager
+io.flutter.plugins.GeneratedPluginRegistrant
+androidx.preference.DropDownPreference
+androidx.preference.Preference
+androidx.preference.DialogPreference
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback
+org.chromium.support_lib_boundary.ScriptHandlerBoundaryInterface
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
+androidx.preference.SwitchPreference
+io.flutter.embedding.engine.FlutterOverlaySurface
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface
+io.flutter.view.TextureRegistry$GLTextureConsumer
+androidx.emoji2.text.EmojiCompatInitializer
+android.support.v4.app.RemoteActionCompatParcelizer
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+io.flutter.plugins.sharedpreferences.LegacySharedPreferencesPlugin
+org.chromium.support_lib_boundary.WebViewBackForwardCacheSettingsBoundaryInterface
+org.chromium.support_lib_boundary.WebViewPageBoundaryInterface
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+org.chromium.support_lib_boundary.WebViewStartUpConfigBoundaryInterface
+dev.fluttercommunity.plus.share.SharePlusPlugin
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry
+com.github.dart_lang.jni.R
+androidx.preference.ListPreference
+org.chromium.support_lib_boundary.WebStorageBoundaryInterface
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+com.github.dart_lang.jni.PortProxyBuilder$DartImplementation
+io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin
+androidx.core.app.RemoteActionCompatParcelizer
+com.github.dart_lang.jni.PortCleaner$PortPhantom
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer
+org.chromium.support_lib_boundary.OriginMatchedHeaderBoundaryInterface
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.preference.PreferenceScreen
+androidx.window.extensions.core.util.function.Function
+androidx.annotation.Keep
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface
+com.github.dart_lang.jni_flutter.JniFlutterPlugin
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$HyperlinkContextMenuItems
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback
+androidx.preference.EditTextPreference
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.preference.TwoStatePreference
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface
+org.chromium.support_lib_boundary.WebViewRendererBoundaryInterface
+org.chromium.support_lib_boundary.NoVarySearchDataBoundaryInterface
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface
+io.flutter.view.TextureRegistry$ImageTextureEntry
+androidx.preference.CheckBoxPreference
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebViewMediaIntegrityApiStatus
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.recyclerview.widget.StaggeredGridLayoutManager
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface$WebMessagePayloadType
+dev.fluttercommunity.plus.share.SharePlusPendingIntent
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+org.chromium.support_lib_boundary.ProfileStoreBoundaryInterface
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface
+org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface
+androidx.profileinstaller.ProfileInstallerInitializer
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface
+io.flutter.plugin.platform.SingleViewPresentation
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.github.dart_lang.jni.PortProxyBuilder$DartImplementation: long pointer
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean released
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Parser PARSER
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.datastore.preferences.PreferencesProto$Value: int BOOLEAN_FIELD_NUMBER
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+androidx.datastore.preferences.protobuf.AbstractMessageLite: int memoizedHashCode
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: java.lang.String DATA_DIRECTORY_BASE_PATH
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+com.github.dart_lang.jni.PortProxyBuilder$DartImplementation: long port
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_IMAGES
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController2 platformViewsController2
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback callback
+androidx.appcompat.widget.SearchView$SavedState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.sync.SemaphoreImpl: long deqIdx$volatile
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object head$volatile
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$HyperlinkContextMenuItems: int COPY_LINK_ADDRESS
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Baseline: int DEFAULT
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int MUTABLE_FLAG_MASK
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface$WebMessagePayloadType: int TYPE_ARRAY_BUFFER
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean ignoringFence
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image image
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+com.github.dart_lang.jni.PortProxyBuilder: boolean built
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_DEFAULT
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.MapFieldLite preferences_
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: androidx.datastore.preferences.protobuf.UnknownFieldSetLite unknownFields
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_ASYNC_LONG_TASKS
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+androidx.recyclerview.widget.StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem: android.os.Parcelable$Creator CREATOR
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: android.content.Context context
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibilityListener imeVisibilityListener
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastScheduleTime
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+androidx.datastore.preferences.PreferencesProto$Value: java.lang.Object value_
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean trimOnMemoryPressure
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+com.github.dart_lang.jni.PortProxyBuilder: com.github.dart_lang.jni.PortCleaner cleaner
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.String TAG
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedWidth
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebauthnSupport: int NONE
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface$WebMessagePayloadType: int TYPE_STRING
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$HyperlinkContextMenuItems: int COPY_LINK_TEXT
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+com.github.dart_lang.jni.PortProxyBuilder: java.util.HashMap implementations
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+androidx.datastore.preferences.PreferencesProto$Value: int DOUBLE_FIELD_NUMBER
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastQueueTime
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$HyperlinkContextMenuItems: int DISABLED
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebViewMediaIntegrityApiStatus: int ENABLED
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean notifiedDestroy
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedHeight
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_FIELD_NUMBER
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_DEQUEUED_IMAGES
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean released
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebauthnSupport: int APP
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$AttributionBehavior: int APP_SOURCE_AND_WEB_TRIGGER
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+androidx.datastore.preferences.PreferencesProto$Value: int INTEGER_FIELD_NUMBER
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int FORCE_DARK_ONLY
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int UNINITIALIZED_SERIALIZED_SIZE
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: java.util.concurrent.ConcurrentHashMap pluginMap
+com.github.dart_lang.jni.PortCleaner$PortPhantom: com.github.dart_lang.jni.PortCleaner$PortPhantom prev
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$AttributionBehavior: int APP_SOURCE_AND_APP_TRIGGER
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebViewMediaIntegrityApiStatus: int DISABLED
+androidx.recyclerview.widget.StaggeredGridLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int BYTES_FIELD_NUMBER
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_ASYNC_SHORT_TASKS
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$AttributionBehavior: int WEB_SOURCE_AND_WEB_TRIGGER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.HashMap perImageReaders
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: java.lang.String TAG
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.github.dart_lang.jni.PortCleaner: com.github.dart_lang.jni.PortCleaner$PortPhantom list
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiResizeListeners
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.datastore.preferences.PreferencesProto$Value: int LONG_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+com.github.dart_lang.jni.PortCleaner: java.lang.ref.ReferenceQueue queue
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean VERBOSE_LOGS
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastDequeueTime
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.String MULTI_COOKIE_HEADER_NAME
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$ConfigField: int RESTRICT_JAVASCRIPT_INTERFACE
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface$PrefetchExceptionTypeBoundaryInterface: int NETWORK
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlinx.coroutines.sync.SemaphoreImpl: int _availablePermits$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$SpeculativeLoadingStatus: int DISABLED
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$SpeculativeLoadingStatus: int PRERENDER_ENABLED
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+kotlinx.coroutines.sync.SemaphoreImpl: long enqIdx$volatile
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: java.lang.String CONFIGURE_PARTITIONED_COOKIES
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.PreferencesProto$PreferenceMap DEFAULT_INSTANCE
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int MEMOIZED_SERIALIZED_SIZE_MASK
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$ConfigField: int PROFILE_NAME
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean CLEANUP_ON_MEMORY_PRESSURE
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.systemchannels.SettingsChannel settingsChannel
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+androidx.datastore.preferences.PreferencesProto$StringSet: int STRINGS_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean ignoringFence
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_ASYNC_PLUS_MULTI_PROCESS
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: int PREFERENCES_FIELD_NUMBER
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_ASYNC_VERY_SHORT_TASKS
+com.github.dart_lang.jni.PortProxyBuilder: long mainPortId
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: java.lang.String DATA_DIRECTORY_SUFFIX
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: int UI_THREAD_STARTUP_MODE_SYNC
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: java.lang.String profileName
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$AttributionBehavior: int DISABLED
+com.github.dart_lang.jni.PortCleaner$PortPhantom: com.github.dart_lang.jni.PortCleaner this$0
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+com.github.dart_lang.jni.PortContinuation: long port
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean createNewReader
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int MEDIA_QUERY_ONLY
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: java.lang.String UI_THREAD_STARTUP_MODE
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebauthnSupport: int BROWSER
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$ConfigField: int BASELINE
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$HyperlinkContextMenuItems: int OPEN_LINK
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.PreferencesProto$Value DEFAULT_INSTANCE
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayList lastDequeuedImage
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: float finalOpacity
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$WebViewMediaIntegrityApiStatus: int ENABLED_WITHOUT_APP_IDENTITY
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+com.github.dart_lang.jni.PortProxyBuilder$DartException: java.lang.Throwable cause
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+com.github.dart_lang.jni.PortCleaner$PortPhantom: long port
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Internal$ProtobufList strings_
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus$volatile
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.Parser PARSER
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int UNINITIALIZED_HASH_CODE
+androidx.datastore.preferences.PreferencesProto$Value: int valueCase_
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.PreferencesProto$StringSet DEFAULT_INSTANCE
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.reflect.Method equals
+com.github.dart_lang.jni.PortProxyBuilder: long isolateId
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.reflect.Method hashCode
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface$PrefetchExceptionTypeBoundaryInterface: int DUPLICATE
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayDeque imageReaderQueue
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface$PrefetchExceptionTypeBoundaryInterface: int GENERIC
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: android.app.Activity activity
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.Object lock
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface$ForceDarkBehavior: int PREFER_MEDIA_QUERY_OVER_FORCE_DARK
+com.github.dart_lang.jni.PortProxyBuilder: java.util.HashSet asyncMethods
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: int baseline
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader lastReaderDequeuedFrom
+com.github.dart_lang.jni.PortCleaner$PortPhantom: com.github.dart_lang.jni.PortCleaner$PortPhantom next
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.reflect.Method toString
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_SET_FIELD_NUMBER
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean newFrameAvailable
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.String MULTI_COOKIE_VALUE_SEPARATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object tail$volatile
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: long engineId
+androidx.datastore.preferences.PreferencesProto$Value: int FLOAT_FIELD_NUMBER
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$ConfigField: int JAVASCRIPT_INTERFACE
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: boolean restrictJavascriptInterface
+org.chromium.support_lib_boundary.ProcessGlobalConfigConstants: java.lang.String CACHE_DIRECTORY_BASE_PATH
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List,long)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnFrameConsumedListener(io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+com.github.dart_lang.jni.JniPlugin: JniPlugin()
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onPageDeleted(java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: java.lang.String getType(android.net.Uri)
+org.chromium.support_lib_boundary.WebViewBackForwardCacheSettingsBoundaryInterface: int getTimeoutInSeconds()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+org.chromium.support_lib_boundary.WebMessageListenerBoundaryInterface: void onPostMessage(android.webkit.WebView,java.lang.reflect.InvocationHandler,android.net.Uri,boolean,java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebMessagePort(java.lang.reflect.InvocationHandler)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.appcompat.widget.SearchView: int getMaxWidth()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setDropDownBackgroundResource(int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isRestore()
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface: void onComplete(long)
+org.chromium.support_lib_boundary.WebViewRendererBoundaryInterface: boolean terminate()
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void showInterstitial(boolean)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebResourceError(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler createWebView(android.webkit.WebView)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: boolean isMultiProcessEnabled()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getProxyController()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerPadding()
+androidx.appcompat.widget.AppCompatTextHelper$Api28Impl: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType[] values()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: java.util.Map getUserAgentMetadataMap()
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface: int getType()
+io.flutter.embedding.engine.FlutterJNI: void maybeResizeSurfaceView(int,int)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getIncludeCookiesOnIntercept()
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface: byte[] getAsArrayBuffer()
+androidx.preference.Preference: Preference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+androidx.preference.DialogPreference: DialogPreference(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection[] values()
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+org.chromium.support_lib_boundary.WebViewStartUpConfigBoundaryInterface: boolean shouldRunUiThreadStartUpTasks()
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onDetachedFromActivityForConfigChanges()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: void startUpWebView(java.lang.reflect.InvocationHandler,java.lang.reflect.InvocationHandler)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: android.app.Activity getActivity(long)
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: androidx.cursoradapter.widget.CursorAdapter getSuggestionsAdapter()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: float getFinalOpacity()
+com.github.dart_lang.jni.PortCleaner: PortCleaner()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImageReaders()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewRendererClient()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setKeyListener(android.text.method.KeyListener)
+io.flutter.view.AccessibilityBridge$Role: io.flutter.view.AccessibilityBridge$Role valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertServiceWorkerSettings(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getForcedNewSurface()
+io.flutter.plugins.webviewflutter.ConsoleMessageLevel: io.flutter.plugins.webviewflutter.ConsoleMessageLevel[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerController()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView2(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: java.lang.String[] getStreamTypes(android.net.Uri,java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage dequeueImage()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+org.chromium.support_lib_boundary.WebViewCookieManagerBoundaryInterface: java.util.List getCookieInfo(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean systemBarVisibilityEquals(int,int)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setBlockNetworkLoads(boolean)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceRequest(android.webkit.WebResourceRequest)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: double deltaMillis(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader33()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+io.flutter.view.AccessibilityBridge$Role: io.flutter.view.AccessibilityBridge$Role[] values()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void finalize()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+org.chromium.support_lib_boundary.NoVarySearchDataBoundaryInterface: boolean getVaryOnKeyOrder()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+org.chromium.support_lib_boundary.WebStorageBoundaryInterface: java.lang.String deleteBrowsingDataForSite(java.lang.String,java.util.concurrent.Executor,java.lang.Runnable)
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void finalize()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getSurface()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getAttributionBehavior()
+com.github.dart_lang.jni.PortContinuation: void resumeWith(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$1(long,int,int)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34()
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void clearPrefetch(java.lang.String,java.util.concurrent.Executor,java.lang.reflect.InvocationHandler)
+io.flutter.plugin.platform.PlatformViewWrapper: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isHistory()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerWidth()
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+io.flutter.view.TextureRegistry$SurfaceLifecycle: io.flutter.view.TextureRegistry$SurfaceLifecycle[] values()
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void warmUpRendererProcess()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void prerenderUrl(java.lang.String,android.os.CancellationSignal,java.util.concurrent.Executor,android.webkit.ValueCallback,android.webkit.ValueCallback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void pushImage(android.media.Image)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+com.github.dart_lang.jni.R: R()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void disableFenceForTest()
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void proceed(boolean)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsTreeEnabled(boolean)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertSafeBrowsingResponse(java.lang.reflect.InvocationHandler)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+org.chromium.support_lib_boundary.WebMessagePayloadBoundaryInterface: java.lang.String getAsString()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsets(int)
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.Object build()
+com.github.dart_lang.jni.PortProxyBuilder: void appendType(java.lang.StringBuilder,java.lang.Class)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void addWebMessageListener(java.lang.String,java.lang.String[],java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: void accept(java.lang.Object)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getActiveReader()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void removeWebMessageListener(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.TooltipCompat$Api26Impl: void setTooltipText(android.view.View,java.lang.CharSequence)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void pruneImageReaderQueue()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebMessagePort(java.lang.Object)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getWillSuppressErrorPage()
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl31)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: int getRendererLibraryPrefetchMode()
+androidx.appcompat.widget.SearchView: void setIconified(boolean)
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: boolean setFontVariationSettings(android.widget.TextView,java.lang.String)
+com.github.dart_lang.jni.PortProxyBuilder$DartImplementation: PortProxyBuilder$DartImplementation(long,long)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+io.flutter.embedding.engine.FlutterJNI: void registerImageTexture(long,io.flutter.view.TextureRegistry$ImageConsumer,boolean)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.String[] getSupportedFeatures()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean handlesCropAndRotation()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+io.flutter.view.TextureRegistry$SurfaceProducer: long id()
+io.flutter.embedding.engine.FlutterJNI: void lambda$loadLibrary$0(java.lang.String)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getHasEnrolledInstrumentEnabled()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnTrimMemoryListener(io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.appcompat.widget.SearchView: int getSuggestionRowLayout()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.SearchView: int getPreferredHeight()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+com.filebrowser.file_browser.MainActivity: MainActivity()
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void setWebViewNavigationClient(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setSafeBrowsingWhitelist(java.util.List,android.webkit.ValueCallback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void setImeVisibilityListener(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibilityListener)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.String getDescriptor(java.lang.reflect.Method)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void setWebViewRendererClient(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface: java.util.List getAsyncStartUpLocations()
+androidx.core.view.WindowInsetsCompat$Impl: void setSystemUiVisibility(int)
+org.chromium.support_lib_boundary.SpeculativeLoadingParametersBoundaryInterface: boolean isJavaScriptEnabled()
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType[] values()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.SearchView: void setInputType(int)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary(android.content.Context)
+io.flutter.plugins.webviewflutter.WindowInsetsType: io.flutter.plugins.webviewflutter.WindowInsetsType valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: android.webkit.WebChromeClient getWebChromeClient()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void backToSafety(boolean)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getWebauthnSupport()
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.appcompat.widget.LinearLayoutCompat: void setHorizontalGravity(int)
+androidx.recyclerview.widget.GridLayoutManager: GridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getPaymentRequestEnabled()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setUserAgentMetadataFromMap(java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: JniFlutterPlugin()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+com.github.dart_lang.jni.PortCleaner: void lambda$new$0()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImages()
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onNavigationCompleted(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewPageBoundaryInterface: boolean isPrerendering()
+androidx.preference.PreferenceScreen: PreferenceScreen(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void waitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: android.net.Uri cache(byte[],java.lang.String,java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+io.flutter.plugins.webviewflutter.WebViewProxyApi$WebViewPlatformView: void setWebViewClient(android.webkit.WebViewClient)
+androidx.preference.ListPreference: ListPreference(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: int getErrorCode()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getSurface()
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetWidth()
+com.github.dart_lang.jni.PortProxyBuilder$DartException: PortProxyBuilder$DartException(java.lang.String,java.lang.Throwable)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setEnterpriseAuthenticationAppLinkPolicyEnabled(boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterImageTexture(long,long,java.lang.ref.WeakReference,boolean)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabledInNative(boolean)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: int getStatusCode()
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: void scheduleFrame()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: boolean onCreate()
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.FlutterJNI: void hidePlatformView2(int)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebStorage(java.lang.Object)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void postMessageToMainFrame(java.lang.reflect.InvocationHandler,android.net.Uri)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void clearOriginMatchedHeader(java.lang.String,java.lang.String)
+androidx.appcompat.widget.SearchView: void setImeOptions(int)
+io.flutter.embedding.engine.FlutterJNI: void scheduleFrame()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader access$400(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.renderer.FlutterRenderer$ViewportMetrics getViewportMetrics()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void maybeWaitOnFence(android.media.Image)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+org.chromium.support_lib_boundary.NoVarySearchDataBoundaryInterface: java.util.List getIgnoredQueryParameters()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void addOriginMatchedHeader(java.lang.String,java.lang.String,java.util.Set)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader createPerImageReader(android.media.ImageReader)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onFirstContentfulPaint(java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.SearchView: void setIconifiedByDefault(boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+io.flutter.embedding.engine.FlutterJNI: void endFrame2()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertCookieManager(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl34)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$500(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+dev.fluttercommunity.plus.share.ShareFileProvider: ShareFileProvider()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void addQuicHints(java.util.Set)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void clearOriginMatchedHeader(java.lang.String)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isSameDocument()
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.LinearLayoutCompat: int getVirtualChildCount()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler,android.os.Handler)
+org.chromium.support_lib_boundary.SpeculativeLoadingParametersBoundaryInterface: java.lang.reflect.InvocationHandler getNoVarySearchData()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onPageCommitVisible(android.webkit.WebView,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: android.content.Context getApplicationContext()
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: boolean hasOriginMatchedHeader(java.lang.String)
+com.github.dart_lang.jni.PortCleaner$PortPhantom: PortCleaner$PortPhantom(com.github.dart_lang.jni.PortCleaner)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setOffscreenPreRaster(boolean)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setDefaultTrafficStatsUid(int)
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$502(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.appcompat.widget.SearchView: int getInputType()
+com.github.dart_lang.jni.JniPlugin: void setClassLoader(java.lang.ClassLoader)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void setOriginMatchedHeader(java.lang.String,java.lang.String,java.util.Set)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void preconnect(java.lang.String)
+org.chromium.support_lib_boundary.ProfileStoreBoundaryInterface: boolean deleteProfile(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image acquireLatestImage()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.embedding.engine.FlutterJNI: android.view.SurfaceControl$Transaction createTransaction()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setBackForwardCacheEnabled(boolean)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void initSafeBrowsing(android.content.Context,android.webkit.ValueCallback)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void release()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setWillSuppressErrorPage(boolean)
+androidx.appcompat.widget.AppCompatTextHelper$Api24Impl: void setTextLocales(android.widget.TextView,android.os.LocaleList)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: boolean isAudioMuted()
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+com.github.dart_lang.jni.PortCleaner$PortPhantom: void insert()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setAlgorithmicDarkeningAllowed(boolean)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceError(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setIncludeCookiesOnIntercept(boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+com.github.dart_lang.jni.PortProxyBuilder: void _cleanUp(long)
+org.chromium.support_lib_boundary.OriginMatchedHeaderBoundaryInterface: java.lang.String getValue()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.preference.MultiSelectListPreference: MultiSelectListPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getWebkitToCompatConverter()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setSafeBrowsingAllowlist(java.util.Set,android.webkit.ValueCallback)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+com.github.dart_lang.jni.JniUtils: JniUtils()
+org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface: java.lang.Long getMaxTimePerTaskInUiThreadMillis()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+io.flutter.view.TextureRegistry$SurfaceProducer: boolean handlesCropAndRotation()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: java.lang.String getVariationsHeader()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setRendererLibraryPrefetchMode(int)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedHttpError(android.webkit.WebView,android.webkit.WebResourceRequest,android.webkit.WebResourceResponse)
+io.flutter.embedding.engine.FlutterJNI: void removeResizingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiResizeListener)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getDropDataProvider()
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowFileAccess()
+com.github.dart_lang.jni_flutter.R: R()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean didCommitErrorPage()
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+com.crazecoder.openfile.FileProvider: FileProvider()
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+com.github.dart_lang.jni.PortCleaner$PortPhantom: void remove()
+androidx.appcompat.widget.SearchView: void setSuggestionsAdapter(androidx.cursoradapter.widget.CursorAdapter)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getWebViewMediaIntegrityApiDefaultStatus()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.appcompat.widget.LinearLayoutCompat: int getOrientation()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setIncludeCookiesOnIntercept(boolean)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+io.flutter.plugins.webviewflutter.FileChooserMode: io.flutter.plugins.webviewflutter.FileChooserMode[] values()
+io.flutter.plugins.webviewflutter.OverScrollMode: io.flutter.plugins.webviewflutter.OverScrollMode[] values()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long,int)
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onSafeBrowsingHit(android.webkit.WebView,android.webkit.WebResourceRequest,int,java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: void setInsets(int,androidx.core.graphics.Insets)
+com.github.dart_lang.jni.PortContinuation: PortContinuation(long)
+androidx.appcompat.widget.AppCompatTextHelper$Api24Impl: android.os.LocaleList forLanguageTags(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: void setMeasureWithLargestChildEnabled(boolean)
+com.github.dart_lang.jni.JniPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void release()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int pendingDequeuedImages()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowContentAccess()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: AppCompatTextViewAutoSizeHelper$Impl()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setHyperlinkContextMenuItems(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setWeightSum(float)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void endRearDisplaySession()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setImeVisibility(boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+com.github.dart_lang.jni.PortCleaner$PortPhantom: PortCleaner$PortPhantom(com.github.dart_lang.jni.PortCleaner,java.lang.Object,long)
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: android.os.ParcelFileDescriptor openFile(android.content.ContentProvider,android.net.Uri)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface: boolean isRedirect()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void setAudioMuted(boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibilityListener getImeVisibilityListener()
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: boolean isTracing()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewRenderer()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void releaseInternal()
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.systemchannels.PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewCreationRequest$RequestedDisplayMode[] values()
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onNavigationCompleted(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushOpacity(float)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: void setServiceWorkerClient(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: AppCompatTextViewAutoSizeHelper$Impl29()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+org.chromium.support_lib_boundary.IsomorphicObjectBoundaryInterface: java.lang.Object getOrCreatePeer(java.util.concurrent.Callable)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: java.util.List getOriginMatchedHeaders(java.lang.String,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List,long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void release()
+org.chromium.support_lib_boundary.ScriptHandlerBoundaryInterface: void remove()
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onNavigationStarted(java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean didCommit()
+androidx.appcompat.widget.LinearLayoutCompat: int getBaselineAlignedChildIndex()
+io.flutter.view.TextureRegistry$SurfaceLifecycle: io.flutter.view.TextureRegistry$SurfaceLifecycle valueOf(java.lang.String)
+androidx.preference.internal.PreferenceImageView: PreferenceImageView(android.content.Context)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader29()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setBackForwardCacheSettings(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: android.webkit.CookieManager getCookieManager()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.github.dart_lang.jni.PortProxyBuilder: void addImplementation(java.lang.String,long,long,java.util.List)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List,long)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetHeight()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+io.flutter.view.TextureRegistry$ImageTextureEntry: long id()
+androidx.appcompat.widget.LinearLayoutCompat: android.graphics.drawable.Drawable getDividerDrawable()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewNavigationClient()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void postMessage(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List,long)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowFileAccess(boolean)
+androidx.appcompat.widget.SearchView$Api29Impl: void setInputMethodMode(androidx.appcompat.widget.SearchView$SearchAutoComplete,int)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.Image acquireLatestImage()
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurface2()
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType[] values()
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.preference.internal.PreferenceImageView: PreferenceImageView(android.content.Context,android.util.AttributeSet,int)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+com.github.dart_lang.jni.JniPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean shouldUpdate()
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: java.lang.CharSequence getDescription()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getForceDarkBehavior()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onNavigationRedirected(java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getTracingController()
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getForcedNewSurface()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+io.flutter.plugin.platform.PlatformViewWrapper: void setLayoutParams(android.widget.FrameLayout$LayoutParams)
+com.filebrowser.file_browser.DataSyncService: DataSyncService()
+io.flutter.plugins.webviewflutter.WebViewProxyApi$WebViewPlatformView: android.view.View getView()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.plugins.webviewflutter.SslErrorType: io.flutter.plugins.webviewflutter.SslErrorType[] values()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+io.flutter.plugins.webviewflutter.WindowInsetsType: io.flutter.plugins.webviewflutter.WindowInsetsType[] values()
+com.github.dart_lang.jni.PortContinuation: kotlin.coroutines.CoroutineContext getContext()
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQueryHint()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id()
+io.flutter.plugins.webviewflutter.MixedContentMode: io.flutter.plugins.webviewflutter.MixedContentMode[] values()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setSearchView(androidx.appcompat.widget.SearchView)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setSize(int,int)
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface: android.webkit.WebView build(android.content.Context,java.util.function.Consumer)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onPageLoadEventFired(java.lang.reflect.InvocationHandler)
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: int getAutoSizeStepGranularity(android.widget.TextView)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setSpeculativeLoadingStatus(int)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: android.webkit.WebViewClient getWebViewClient()
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: void setTextLocale(android.widget.TextView,java.util.Locale)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getHeight()
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getBlockNetworkLoads()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: long id()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+io.flutter.view.TextureRegistry$ImageTextureEntry: void pushImage(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getOffscreenPreRaster()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler[] createWebMessageChannel()
+androidx.appcompat.widget.LinearLayoutCompat: float getWeightSum()
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: android.graphics.drawable.Drawable[] getCompoundDrawablesRelative(android.widget.TextView)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.preference.internal.PreferenceImageView: int getMaxHeight()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void saveState(android.os.Bundle,int,boolean)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void prefetchUrl(java.lang.String,android.os.CancellationSignal,java.util.concurrent.Executor,java.lang.reflect.InvocationHandler,java.lang.reflect.InvocationHandler)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.appcompat.widget.SearchView: int getImeOptions()
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean wasInitiatedByPage()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: android.webkit.ServiceWorkerController getServiceWorkerController()
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerWebSettings()
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void setActivity(android.app.Activity)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.preference.PreferenceCategory: PreferenceCategory(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.preference.SwitchPreferenceCompat: SwitchPreferenceCompat(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSafeBrowsingResponse(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeaturesInNative(int)
+androidx.startup.InitializationProvider: InitializationProvider()
+io.flutter.plugins.webviewflutter.OverScrollMode: io.flutter.plugins.webviewflutter.OverScrollMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface2()
+org.chromium.support_lib_boundary.ProfileStoreBoundaryInterface: java.lang.reflect.InvocationHandler getOrCreateProfile(java.lang.String)
+io.flutter.plugins.sharedpreferences.StringListLookupResultType: io.flutter.plugins.sharedpreferences.StringListLookupResultType[] values()
+io.flutter.plugins.webviewflutter.FileChooserMode: io.flutter.plugins.webviewflutter.FileChooserMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+org.chromium.support_lib_boundary.OriginMatchedHeaderBoundaryInterface: java.util.Set getRules()
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: java.lang.reflect.InvocationHandler getPage()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void release()
+androidx.recyclerview.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+io.flutter.plugins.webviewflutter.JavaScriptChannel: void postMessage(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.preference.CheckBoxPreference: CheckBoxPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType valueOf(java.lang.String)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+org.chromium.support_lib_boundary.NoVarySearchDataBoundaryInterface: java.util.List getConsideredQueryParameters()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setForceDarkBehavior(int)
+androidx.appcompat.widget.SearchView: void setQuery(java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.preference.PreferenceGroup: PreferenceGroup(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setSafeBrowsingEnabled(boolean)
+io.flutter.view.TextureRegistry$SurfaceProducer: void release()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+com.github.dart_lang.jni.PortCleaner: void register(java.lang.Object,long)
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.reflect.InvocationHandler[] getPorts()
+io.flutter.plugin.platform.PlatformViewWrapper: android.view.ViewTreeObserver$OnGlobalFocusChangeListener getActiveFocusListener()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder[] values()
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSettings(android.webkit.WebSettings)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.core.view.WindowInsetsCompat$Impl34: boolean isVisible(int)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax[] values()
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface: void onRendererResponsive(android.webkit.WebView,java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface: void onSuccess()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.String getData()
+org.chromium.support_lib_boundary.WebViewStartUpCallbackBoundaryInterface: void onSuccess(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getOrCreatePerImageReader(android.media.ImageReader)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeIsSurfaceControlEnabled(long)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void setProfile(java.lang.String)
+org.chromium.support_lib_boundary.ProfileStoreBoundaryInterface: java.util.List getAllProfileNames()
+androidx.appcompat.widget.SearchView: int getSuggestionCommitIconResId()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAligned(boolean)
+androidx.preference.SwitchPreference: SwitchPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getWidth()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: android.graphics.SurfaceTexture surfaceTexture()
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onPageDeleted(java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.SearchView: void setSubmitButtonEnabled(boolean)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getHeight()
+androidx.appcompat.widget.SearchView$Api29Impl: void refreshAutoCompleteResults(android.widget.AutoCompleteTextView)
+androidx.window.extensions.core.util.function.Consumer: void accept(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.window.extensions.core.util.function.Predicate: boolean test(java.lang.Object)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getDisabledActionModeMenuItems()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$ImeVisibilityListener access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+org.chromium.support_lib_boundary.NoVarySearchDataBoundaryInterface: boolean getIgnoreDifferencesInParameters()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onNavigationStarted(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: FlutterRenderer$ImageTextureRegistryEntry(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: android.webkit.WebStorage getWebStorage()
+org.chromium.support_lib_boundary.WebViewBackForwardCacheSettingsBoundaryInterface: int getMaxPagesInCache()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void cleanup()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAlignedChildIndex(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setSettingsChannel(io.flutter.embedding.engine.systemchannels.SettingsChannel)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getForceDark()
+androidx.preference.internal.PreferenceImageView: void setMaxWidth(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.plugins.webviewflutter.MixedContentMode: io.flutter.plugins.webviewflutter.MixedContentMode valueOf(java.lang.String)
+org.chromium.support_lib_boundary.OriginMatchedHeaderBoundaryInterface: java.lang.String getName()
+androidx.window.extensions.core.util.function.Function: java.lang.Object apply(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long,int)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setAttributionBehavior(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setDisabledActionModeMenuItems(int)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.preference.SeekBarPreference: SeekBarPreference(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet,int)
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.reflect.InvocationHandler getMessagePayload()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: void addJavascriptInterface(java.lang.Object,java.lang.String,java.util.List)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+org.chromium.support_lib_boundary.SpeculativeLoadingConfigBoundaryInterface: int getMaxPrefetches()
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onPageDOMContentLoadedEventFired(java.lang.reflect.InvocationHandler)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: WebViewBuilderBoundaryInterface$Config()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: FlutterRenderer$ImageReaderSurfaceProducer(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+org.chromium.support_lib_boundary.WebViewBuilderBoundaryInterface$Config: void accept(java.util.function.BiConsumer)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.embedding.engine.FlutterJNI: void nativeScheduleFrame(long)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: java.lang.String getName()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: int getCacheMode()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onReattachedToActivityForConfigChanges(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void markDirty()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setDefaultTrafficStatsTag(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setGravity(int)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void prefetchUrl(java.lang.String,android.os.CancellationSignal,java.util.concurrent.Executor,java.lang.reflect.InvocationHandler)
+androidx.appcompat.resources.Compatibility$Api15Impl: void getValueForDensity(android.content.res.Resources,int,int,android.util.TypedValue,boolean)
+io.flutter.plugin.platform.PlatformViewWrapper: void setTouchProcessor(io.flutter.embedding.android.AndroidTouchProcessor)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: void start(int,java.util.Collection,int)
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void setSystemUiVisibility(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onImage(android.media.ImageReader,android.media.Image)
+androidx.appcompat.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onPageLoadEventFired(java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: void setAutoSizeTextTypeUniformWithConfiguration(android.widget.TextView,int,int,int,int)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void removeWebViewNavigationListener(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+org.chromium.support_lib_boundary.JsReplyProxyBoundaryInterface: void postMessage(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerDrawable(android.graphics.drawable.Drawable)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+org.chromium.support_lib_boundary.SpeculativeLoadingConfigBoundaryInterface: int getMaxPrerenders()
+androidx.appcompat.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void setProxyOverride(java.lang.String[][],java.lang.String[],java.lang.Runnable,java.util.concurrent.Executor)
+io.flutter.plugins.urllauncher.WebViewActivity: WebViewActivity()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: int getBaseline()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getProfileStore()
+io.flutter.plugins.webviewflutter.SslErrorType: io.flutter.plugins.webviewflutter.SslErrorType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getEnterpriseAuthenticationAppLinkPolicyEnabled()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setEmojiCompatEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.preference.internal.PreferenceImageView: int getMaxWidth()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+io.flutter.embedding.engine.systemchannels.PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+androidx.preference.TwoStatePreference: TwoStatePreference(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: boolean shouldOverrideUrlLoading(android.webkit.WebView,android.webkit.WebResourceRequest)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+org.chromium.support_lib_boundary.JsReplyProxyBoundaryInterface: void postMessageWithPayload(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isForward()
+org.chromium.support_lib_boundary.WebViewStartUpConfigBoundaryInterface: java.util.concurrent.Executor getBackgroundExecutor()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.appcompat.widget.LinearLayoutCompat: void setShowDividers(int)
+androidx.preference.EditTextPreference: EditTextPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.view.TextureRegistry$GLTextureConsumer: android.graphics.SurfaceTexture getSurfaceTexture()
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+androidx.appcompat.widget.LinearLayoutCompat: int getShowDividers()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl23: AppCompatTextViewAutoSizeHelper$Impl23()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.appcompat.widget.SearchView: void setMaxWidth(int)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+io.flutter.plugins.webviewflutter.WebViewProxyApi$WebViewPlatformView: void setWebChromeClient(android.webkit.WebChromeClient)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: java.lang.String getUrl()
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowContentAccess(boolean)
+org.chromium.support_lib_boundary.WebViewNavigationListenerBoundaryInterface: void onFirstContentfulPaint(java.lang.reflect.InvocationHandler,long)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void lambda$dequeueImage$0()
+com.github.dart_lang.jni.PortContinuation: void _resumeWith(long,java.lang.Object)
+org.chromium.support_lib_boundary.TracingControllerBoundaryInterface: boolean stop(java.io.OutputStream,java.util.concurrent.Executor)
+io.flutter.embedding.engine.FlutterJNI: void hideOverlaySurface2()
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface: android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebResourceRequest)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getSpeculativeLoadingStatus()
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQuery()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler addDocumentStartJavaScript(java.lang.String,java.lang.String[])
+androidx.preference.internal.PreferenceImageView: void setMaxHeight(int)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.window.layout.util.ContextCompatHelperApi30: androidx.core.view.WindowInsetsCompat currentWindowInsets(android.content.Context)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isBack()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void applyTransactions()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void clearProxyOverride(java.lang.Runnable,java.util.concurrent.Executor)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getSafeBrowsingEnabled()
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void close()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getBackForwardCacheEnabled()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: java.lang.reflect.InvocationHandler getBackForwardCacheSettings()
+io.flutter.view.AccessibilityStringBuilder$StringAttributeType: io.flutter.view.AccessibilityStringBuilder$StringAttributeType[] values()
+org.chromium.support_lib_boundary.WebStorageBoundaryInterface: void deleteBrowsingData(java.util.concurrent.Executor,java.lang.Runnable)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getStatics()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void maybeWaitOnFence(android.media.Image)
+androidx.core.view.WindowInsetsCompat$TypeImpl34: int toPlatformType(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.recyclerview.widget.LinearLayoutManager: LinearLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler getProfile()
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: void setCompoundDrawablesRelativeWithIntrinsicBounds(android.widget.TextView,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+com.github.dart_lang.jni.PortProxyBuilder: PortProxyBuilder(long,long)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onPageDOMContentLoadedEventFired(java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.github.dart_lang.jni.PortCleaner: void clean(long)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.preference.internal.PreferenceImageView: PreferenceImageView(android.content.Context,android.util.AttributeSet)
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface: void onMessage(java.lang.reflect.InvocationHandler,java.lang.reflect.InvocationHandler)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+org.chromium.support_lib_boundary.WebViewNavigationBoundaryInterface: boolean isReload()
+io.flutter.view.AccessibilityStringBuilder$StringAttributeType: io.flutter.view.AccessibilityStringBuilder$StringAttributeType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void insertVisualStateCallback(long,java.lang.reflect.InvocationHandler)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface: java.util.List getBlockingStartUpLocations()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void addWebViewNavigationListener(java.util.concurrent.Executor,java.lang.reflect.InvocationHandler)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+org.chromium.support_lib_boundary.WebViewStartUpConfigBoundaryInterface: java.util.Set getProfileNamesToLoad()
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: android.net.Uri getSafeBrowsingPrivacyPolicyUrl()
+androidx.appcompat.widget.SearchView: void setQueryRefinementEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: void setClearCachedDataIntervalMs(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType[] values()
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: void onDragEnd(boolean)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.plugins.webviewflutter.ConsoleMessageLevel: io.flutter.plugins.webviewflutter.ConsoleMessageLevel valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean isAlgorithmicDarkeningAllowed()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedError(android.webkit.WebView,android.webkit.WebResourceRequest,java.lang.reflect.InvocationHandler)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setSize(int,int)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode[] values()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+androidx.appcompat.widget.SearchView: void setAppSearchData(android.os.Bundle)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: java.util.Map getWebViewMediaIntegrityApiOverrideRules()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.embedding.engine.FlutterJNI: void swapTransactions()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onTrimMemory(int)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setForceDark(int)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setWebauthnSupport(int)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setCacheMode(int)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void setSpeculativeLoadingConfig(java.lang.reflect.InvocationHandler)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.appcompat.widget.SearchView: void setOnQueryTextListener(androidx.appcompat.widget.SearchView$OnQueryTextListener)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: android.webkit.GeolocationPermissions getGeoLocationPermissions()
+org.chromium.support_lib_boundary.PrefetchOperationCallbackBoundaryInterface: void onFailure(int,java.lang.String,int)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+org.chromium.support_lib_boundary.ProxyControllerBoundaryInterface: void setProxyOverride(java.lang.String[][],java.lang.String[],java.lang.Runnable,java.util.concurrent.Executor,boolean)
+org.chromium.support_lib_boundary.WebViewNavigationClientBoundaryInterface: void onNavigationRedirected(java.lang.reflect.InvocationHandler)
+io.flutter.view.TextureRegistry$ImageConsumer: android.media.Image acquireLatestImage()
+androidx.appcompat.widget.SearchView: void setOnCloseListener(androidx.appcompat.widget.SearchView$OnCloseListener)
+androidx.appcompat.widget.LinearLayoutCompat: void setOrientation(int)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getIncludeCookiesOnIntercept()
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+org.chromium.support_lib_boundary.WebViewStartUpResultBoundaryInterface: java.lang.Long getTotalTimeInUiThreadMillis()
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertServiceWorkerSettings(java.lang.Object)
+org.chromium.support_lib_boundary.ProfileBoundaryInterface: void clearAllOriginMatchedHeaders()
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerPadding(int)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+org.chromium.support_lib_boundary.ProfileStoreBoundaryInterface: java.lang.reflect.InvocationHandler getProfile(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.appcompat.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[],int,int,int,int,int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: boolean IsSurfaceControlEnabled()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void waitOnFence(android.media.Image)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getWidth()
+androidx.appcompat.widget.SearchView: void setOnSuggestionListener(androidx.appcompat.widget.SearchView$OnSuggestionListener)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onDetachedFromActivity()
+com.github.dart_lang.jni.PortProxyBuilder: java.lang.Object[] _invoke(long,long,long,long,java.lang.Object,java.lang.String,java.lang.Object[],boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+io.flutter.plugins.sharedpreferences.StringListLookupResultType: io.flutter.plugins.sharedpreferences.StringListLookupResultType valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+org.chromium.support_lib_boundary.WebViewRendererClientBoundaryInterface: void onRendererUnresponsive(android.webkit.WebView,java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[],int,int,int,int,int,int,int,int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipPath(android.graphics.Path)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void scheduleFrame()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+dev.fluttercommunity.plus.share.SharePlusPendingIntent: SharePlusPendingIntent()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setPaymentRequestEnabled(boolean)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType valueOf(java.lang.String)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+io.flutter.embedding.engine.FlutterJNI: void setApplicationLocale(java.lang.String)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setWebViewMediaIntegrityApiStatus(int,java.util.Map)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.appcompat.widget.SearchView: int getPreferredWidth()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setHasEnrolledInstrumentEnabled(boolean)
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface: java.lang.String[] getSupportedFeatures()
+io.flutter.embedding.android.FlutterView: void setDelegate(io.flutter.embedding.android.FlutterViewDelegate)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void prerenderUrl(java.lang.String,android.os.CancellationSignal,java.util.concurrent.Executor,java.lang.reflect.InvocationHandler,android.webkit.ValueCallback,android.webkit.ValueCallback)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+io.flutter.plugins.webviewflutter.WebViewProxyApi$WebViewPlatformView: android.webkit.WebChromeClient getWebChromeClient()
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void addResizingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiResizeListener)
+org.chromium.support_lib_boundary.SpeculativeLoadingParametersBoundaryInterface: java.util.Map getAdditionalHeaders()
+org.chromium.support_lib_boundary.DropDataContentProviderBoundaryInterface: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController2(io.flutter.plugin.platform.PlatformViewsController2)
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+org.chromium.support_lib_boundary.SpeculativeLoadingConfigBoundaryInterface: int getPrefetchTTLSeconds()
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: void setAutoSizeTextTypeUniformWithPresetSizes(android.widget.TextView,int[],int)
+io.flutter.embedding.engine.FlutterJNI: void showOverlaySurface2()
+io.flutter.view.AccessibilityBridge$Api31Impl: boolean isBoldText(android.content.res.Configuration)
+com.github.dart_lang.jni.JniUtils: java.lang.Object fromReferenceAddress(long)
+com.github.dart_lang.jni_flutter.JniFlutterPlugin: void onAttachedToActivity(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+androidx.appcompat.widget.LinearLayoutCompat: int getGravity()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getWebViewBuilder()
+androidx.appcompat.widget.LinearLayoutCompat: void setVerticalGravity(int)
+androidx.preference.DropDownPreference: DropDownPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
