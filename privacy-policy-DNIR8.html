@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سياسة الخصوصية — DNIR8 | Politique de confidentialité</title>
+<style>
+  :root{--bg:#0f172a;--card:#1e293b;--text:#e2e8f0;--muted:#94a3b8;--accent:#3b82f6;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--text);font-family:"Segoe UI",Tahoma,Arial,sans-serif;line-height:1.8;padding:16px;}
+  .wrap{max-width:860px;margin:0 auto;}
+  header{background:linear-gradient(135deg,#1d4ed8,#0ea5e9);border-radius:16px;padding:28px 24px;margin-bottom:24px;}
+  header h1{font-size:1.6rem;}
+  header p{color:#dbeafe;font-size:.95rem;margin-top:6px;}
+  .card{background:var(--card);border-radius:14px;padding:22px 20px;margin-bottom:18px;}
+  .card h2{color:var(--accent);font-size:1.15rem;margin-bottom:10px;border-bottom:1px solid #334155;padding-bottom:8px;}
+  ul{padding-right:22px;list-style:square;}
+  li{margin-bottom:6px;}
+  .en{direction:ltr;text-align:left;font-family:"Segoe UI",Arial,sans-serif;}
+  .lang-toggle{background:#334155;border:1px solid #475569;color:var(--text);border-radius:999px;padding:6px 14px;font-size:.85rem;cursor:pointer;margin-bottom:18px;}
+  .lang-toggle:hover{background:#475569;}
+  table{width:100%;border-collapse:collapse;font-size:.9rem;}
+  th,td{border:1px solid #334155;padding:8px 10px;text-align:right;vertical-align:top;}
+  th{background:#0b1220;color:var(--accent);}
+  a{color:#60a5fa;}
+  i{color:var(--muted);}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <button class="lang-toggle" onclick="toggleLang()">English / العربية</button>
+
+  <!-- ============ ARABIC (RTL) ============ -->
+  <div id="ar">
+    <header>
+      <h1>سياسة الخصوصية</h1>
+      <p>تطبيق <b>DNIR8 – Browse &amp; Download</b> — الإصدار 3.1.0 (بدون حساب، بدون إعلانات)</p>
+      <p>تاريخ السريان: 28 أغسطس 2026</p>
+    </header>
+
+    <div class="card">
+      <h2>1. نظرة عامة</h2>
+      <p>تطبيق <b>DNIR8</b> هو متصفح ويب ومدير تحميلات. نحترم خصوصيتك تمامًا ونهتم بشفافية كاملة بشأن أي معلومات يتم التعامل معها على جهازك. <b>لا نجمع أي بيانات شخصية منك ولا نشاركها مع أي طرف ثالث، ولا نملك حسابًا، ولا نرسل أي بيانات إلى خادم مملوك لنا.</b></p>
+    </div>
+
+    <div class="card">
+      <h2>2. البيانات التي نخزّنها (مخزّنة على جهازك فقط)</h2>
+      <ul>
+        <li><b>المفضلة (المواقع المفضلة):</b> قائمة المواقع التي تضيفها بنفسك (حتى 100 موقع) — مخزّنة محليًا داخل التطبيق.</li>
+        <li><b>سجل التصفح:</b> عناوين URLs وعناوين الصفحات وأوقات الزيارة (حتى 500 إدخال) — مخزّنة محليًا فقط، ويمكنك مسحها في أي وقت من إعدادات التطبيق.</li>
+        <li><b>التحميلات:</b> قائمة ملفات التحميل وحالتها، والملفات نفسها تُحفظ في مساحة تطبيقك على الجهاز.</li>
+        <li><b>الإعدادات:</b> اللغة، المظهر (فاتح/داكن)، التحميل التلقائي، الوضع المكتبي، حظر الإعلانات، الوضع الليلي — مخزّنة محليًا.</li>
+      </ul>
+      <p><i>يمكنك حذف كل هذه البيانات في أي وقت: «إعدادات النظام ← التطبيقات ← DNIR8 ← مسح البيانات» أو من خيارات حذف السجل داخل التطبيق.</i></p>
+    </div>
+
+    <div class="card">
+      <h2>3. الصلاحيات المطلوبة والغرض منها</h2>
+      <table>
+        <tr><th>الصلاحية</th><th>الغرض</th></tr>
+        <tr><td>الإنترنت (INTERNET)</td><td>السماح بتصفح صفحات الويب وتحميل الملفات — وهي وظيفة التصفح الأساسية.</td></tr>
+        <tr><td>حالة الشبكة (ACCESS_NETWORK_STATE)</td><td>التحقق من اتصال الإنترنت لإدارة التحميلات.</td></tr>
+        <tr><td>التسجيل الصوتي (RECORD_AUDIO)</td><td>تُطلب <b>فقط</b> عند استخدام «البحث الصوتي»؛ لا يتم التسجيل أو الإرسال في أي وقت آخر. يُعالج الصوت بواسطة خدمة التعرف على الكلام في النظام (مثل خدمات Google على الجهاز).</td></tr>
+        <tr><td>الإشعارات (POST_NOTIFICATIONS)</td><td>عرض إشعارات تقدم/اكتمال التحميلات التي تبدأها أنت.</td></tr>
+        <tr><td>خدمة في المقدمة (FOREGROUND_SERVICE / DATA_SYNC)</td><td>إكمال التحميلات في الخلفية بعد إغلاق التطبيق.</td></tr>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>4. البيانات المشتركة مع أطراف ثالثة</h2>
+      <ul>
+        <li>عند تصفحك، يتصل التطبيق مباشرةً بالمواقع التي تطلبها أنت — تمامًا مثل أي متصفح. لا يمر أي من اتصالاتك عبر خوادمنا.</li>
+        <li>التحميلات تتم مباشرة من المصدر الذي تحدده.</li>
+        <li>البحث الصوتي قد يُعالَج بواسطة خدمة التعرف على الكلام في النظام (محرك Google للتعرف على الكلام) حسب ضبط جهازك.</li>
+        <li><b>لا يوجد أي Analytics، ولا حِزم إعلانات، ولا بيع للبيانات، ولا مشاركة مع طرف ثالث تجاري.</b></li>
+        <li>التطبيق يتضمن «حظر إعلانات» محليًا: فهو فقط يمنع طلبات الشبكة منتصفات النطاقات الإعلانية المعروفة، ولا يجمع بيانات عنك.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>5. الأشخاص دون سن 13 عامًا</h2>
+      <p>لا يستهدف التطبيق الأطفال ولا يجمع بياناتهم عمدًا. إذا كنت ولي أمر وتعتقد أن طفلك قدم بيانات عبر التطبيق، تواصل معنا وسنحذفها.</p>
+    </div>
+
+    <div class="card">
+      <h2>6. حقوقك</h2>
+      <ul>
+        <li>الوصول إلى جميع بياناتك وحذفها في أي وقت (من داخل التطبيق أو بإلغاء تثبيته).</li>
+        <li>طلب معلومات إضافية عن معالجة البيانات عبر البريد الإلكتروني أدناه.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>7. تعديلات على هذه السياسة</h2>
+      <p>عند حدوث أي تغيير في طريقة التعامل مع البيانات، سيتم تحديث هذه الصفحة وتغيير تاريخ السريان أعلاه.</p>
+    </div>
+
+    <div class="card">
+      <h2>8. التواصل معنا</h2>
+      <p>لمزيد من الأسئلة: <a href="mailto:forbello6@gmail.com">forbello6@gmail.com</a></p>
+    </div>
+  </div>
+
+  <!-- ============ ENGLISH (LTR) ============ -->
+  <div id="en" class="en" style="display:none">
+    <header>
+      <h1>Privacy Policy</h1>
+      <p><b>DNIR8 – Browse &amp; Download</b> — Version 3.1.0 (no account, no ads)</p>
+      <p>Effective date: August 28, 2026</p>
+    </header>
+
+    <div class="card">
+      <h2>1. Overview</h2>
+      <p><b>DNIR8</b> is a web browser and download manager. We fully respect your privacy and are fully transparent about any information handled on your device. <b>We do not collect any personal data, do not share data with third parties, have no accounts, and send no data to any server of ours.</b></p>
+    </div>
+
+    <div class="card">
+      <h2>2. Data we store (on your device only)</h2>
+      <ul>
+        <li><b>Favorites:</b> the websites you add yourself (max 100) — stored locally inside the app.</li>
+        <li><b>Browsing history:</b> URLs, page titles and visit timestamps (max 500 entries) — stored locally only; you can clear it anytime from the app settings.</li>
+        <li><b>Downloads:</b> the list and status of your downloads; the files themselves are saved in your app storage on the device.</li>
+        <li><b>Settings:</b> language, theme (light/dark), auto-download, desktop mode, ad blocker, night mode — stored locally.</li>
+      </ul>
+      <p><i>You can delete all of this data at any time: «System settings → Apps → DNIR8 → Clear data», or via the app's clear-history option.</i></p>
+    </div>
+
+    <div class="card">
+      <h2>3. Permissions and their purpose</h2>
+      <table>
+        <tr><th>Permission</th><th>Purpose</th></tr>
+        <tr><td>Internet (INTERNET)</td><td>To browse web pages and download files — core browsing function.</td></tr>
+        <tr><td>Network state (ACCESS_NETWORK_STATE)</td><td>To check connectivity for download management.</td></tr>
+        <tr><td>Microphone (RECORD_AUDIO)</td><td>Requested <b>only</b> when using "Voice search"; no recording or sending at any other time. Audio is processed by the system speech-recognition service (e.g. Google's on-device service).</td></tr>
+        <tr><td>Notifications (POST_NOTIFICATIONS)</td><td>To show progress/completion notifications for downloads you start.</td></tr>
+        <tr><td>Foreground service (FOREGROUND_SERVICE / DATA_SYNC)</td><td>To finish downloads in the background after closing the app.</td></tr>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>4. Data shared with third parties</h2>
+      <ul>
+        <li>While browsing, the app connects directly to the websites you request — just like any browser. No request passes through our servers.</li>
+        <li>Downloads are fetched directly from the source you choose.</li>
+        <li>Voice search may be processed by the system speech-recognition service (Google speech engine) depending on your device configuration.</li>
+        <li><b>No analytics, no ad SDKs, no data selling, no sharing with commercial third parties.</b></li>
+        <li>The app includes a built-in local ad blocker: it simply prevents network requests to known ad domains and collects nothing about you.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>5. Children under 13</h2>
+      <p>The app is not directed at children and does not knowingly collect their data. If you are a parent and believe your child provided data through the app, contact us and we will delete it.</p>
+    </div>
+
+    <div class="card">
+      <h2>6. Your rights</h2>
+      <ul>
+        <li>Access and delete all your data at any time (from within the app or by uninstalling it).</li>
+        <li>Request further information about data processing via the email below.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>7. Changes to this policy</h2>
+      <p>If our data handling changes, this page will be updated and the effective date above changed.</p>
+    </div>
+
+    <div class="card">
+      <h2>8. Contact</h2>
+      <p>For any questions: <a href="mailto:forbello6@gmail.com">forbello6@gmail.com</a></p>
+    </div>
+  </div>
+
+</div>
+<script>
+function toggleLang(){
+  const ar=document.getElementById('ar'), en=document.getElementById('en');
+  const arShown=ar.style.display!=='none';
+  ar.style.display=arShown?'none':'block';
+  en.style.display=arShown?'block':'none';
+  document.documentElement.dir=arShown?'ltr':'rtl';
+  document.documentElement.lang=arShown?'en':'ar';
+}
+</script>
+</body>
+</html>
