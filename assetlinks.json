@@ -1,1 +1,11 @@
-يُرجى إدخال نطاق لإنشاء ملف JSON
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.filebrowser.file_browser",
+      "sha256_cert_fingerprints":
+        ["2F:33:5E:15:70:BF:BE:E2:05:BA:D4:45:52:D2:90:D0:40:6E:EF:B9:10:F1:A4:26:07:48:C3:CB:FA:40:F9:4B"]
+    }
+  }
+]
